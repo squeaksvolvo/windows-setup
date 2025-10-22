@@ -1,0 +1,242 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "7zip.7zip",
+      "Name": "7-Zip",
+      "Version": "25.01",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Audacity.Audacity",
+      "Name": "Audacity",
+      "Version": "3.7.5",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Brave.Brave",
+      "Name": "Brave",
+      "Version": "141.1.83.109",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "CXWorld.CapFrameX",
+      "Name": "CapFrameX",
+      "Version": "1.7.4",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "CutePDF",
+      "Name": "CutePDF",
+      "Version": "4.0.1.500",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "Discord.Discord",
+      "Name": "Discord",
+      "Version": "1.0.9210",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Flameshot.Flameshot",
+      "Name": "Flameshot",
+      "Version": "13.1.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "GIMP.GIMP.3",
+      "Name": "GIMP",
+      "Version": "3.0.6.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Google.Chrome",
+      "Name": "Google Chrome",
+      "Version": "latest",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Gyan.FFmpeg",
+      "Name": "FFmpeg",
+      "Version": "8",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "KDE.Kdenlive",
+      "Name": "Kdenlive",
+      "Version": "25.08.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "MetaGeek.inSSIDer",
+      "Name": "inSSIDer",
+      "Version": "5.5.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.Sysinternals.Suite",
+      "Name": "Sysinternals Suite",
+      "Version": "2025-09-16",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.WindowsTerminal",
+      "Name": "Windows Terminal",
+      "Version": "1.23.12681.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Notepad\u002B\u002B.Notepad\u002B\u002B",
+      "Name": "Notepad\u002B\u002B",
+      "Version": "latest",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Nvidia.FrameView",
+      "Name": "Nvidia FrameView",
+      "Version": "1.6",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "OBSProject.OBSStudio",
+      "Name": "OBS Studio",
+      "Version": "32.0.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Oracle.VirtualBox",
+      "Name": "Oracle VirtualBox",
+      "Version": "7.2.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "REALiX.HWiNFO",
+      "Name": "HWiNFO\u00AE",
+      "Version": "8.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "TheDocumentFoundation.LibreOffice",
+      "Name": "LibreOffice",
+      "Version": "25.8.1.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Unigine.HeavenBenchmark",
+      "Name": "Heaven Benchmark",
+      "Version": "4",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Valve.Steam",
+      "Name": "Steam",
+      "Version": "2.10.91.91",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "VideoLAN.VLC",
+      "Name": "VLC media player",
+      "Version": "3.0.21",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WinDirStat.WinDirStat",
+      "Name": "WinDirStat",
+      "Version": "2.2.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WinSCP.WinSCP",
+      "Name": "WinSCP",
+      "Version": "6.5.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WinsiderSS.SystemInformer",
+      "Name": "System Informer",
+      "Version": "3.2.25099.1530",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "imageglass",
+      "Name": "Imageglass",
+      "Version": "9.3.2.520",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "lossless-cut",
+      "Name": "Lossless Cut",
+      "Version": "3.65.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "ntlite-free",
+      "Name": "Ntlite Free",
+      "Version": "2025.10.10644",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "python3",
+      "Name": "Python3",
+      "Version": "3.13.7",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "OverridesNextLevelOpts": true,
+        "RunAsAdministrator": true
+      }
+    },
+    {
+      "Id": "veracrypt",
+      "Name": "Veracrypt",
+      "Version": "1.26.24",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    },
+    {
+      "Id": "voidtools.Everything",
+      "Name": "Everything",
+      "Version": "1.4.1.1026",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "windows-adk-oscdimg",
+      "Name": "Windows Adk Oscdimg",
+      "Version": "10.1",
+      "Source": "community",
+      "ManagerName": "Chocolatey"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}
